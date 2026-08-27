@@ -1,7 +1,7 @@
 {
   "name": "businesscentral-techcons",
   "displayName": "Business Central MCP (Tech Test / SandboxMapan2)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP connector for Dynamics 365 Business Central (Tech Test / SandboxMapan2)",
   "mcpServers": {
     "businesscentral": {
