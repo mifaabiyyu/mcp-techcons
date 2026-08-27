@@ -12,10 +12,6 @@
         "EnvironmentName": "SandboxMapan2",
         "Company": "Tech Test",
         "ConfigurationName": "Master Data"
-      },
-      "oauth": {
-        "clientId": "3049d5a2-feca-49f6-86d6-d14366d0f805",
-        "callbackPort": 33418
       }
     }
   }

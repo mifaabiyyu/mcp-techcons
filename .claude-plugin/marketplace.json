@@ -10,7 +10,7 @@
       "source": "./plugins/businesscentral",
       "description": "Connects Claude to Business Central (Tech Test / SandboxMapan2) via MCP",
       "displayName": "Business Central MCP",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
