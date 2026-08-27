@@ -1,0 +1,16 @@
+{
+  "name": "bc-mcp-marketplace-techcons",
+  "description": "Business Central MCP server connector",
+  "owner": {
+    "name": "Tech Test"
+  },
+  "plugins": [
+    {
+      "name": "businesscentral-techcons",
+      "source": "./plugins/businesscentral",
+      "description": "Connects Claude to Business Central (Tech Test / SandboxMapan2) via MCP",
+      "displayName": "Business Central MCP",
+      "version": "1.0.0"
+    }
+  ]
+}

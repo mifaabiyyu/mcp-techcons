@@ -1,0 +1,22 @@
+{
+  "name": "businesscentral-techcons",
+  "displayName": "Business Central MCP (Tech Test / SandboxMapan2)",
+  "version": "1.0.0",
+  "description": "MCP connector for Dynamics 365 Business Central (Tech Test / SandboxMapan2)",
+  "mcpServers": {
+    "businesscentral": {
+      "type": "http",
+      "url": "https://mcp.businesscentral.dynamics.com",
+      "headers": {
+        "TenantId": "f2f817fd-8533-4bd9-9b94-b90c9a9e24c7",
+        "EnvironmentName": "SandboxMapan2",
+        "Company": "Tech Test",
+        "ConfigurationName": "Master Data"
+      },
+      "oauth": {
+        "clientId": "3049d5a2-feca-49f6-86d6-d14366d0f805",
+        "callbackPort": 33418
+      }
+    }
+  }
+}
